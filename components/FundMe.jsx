@@ -194,7 +194,7 @@ export const FundMe = () => {
           )}
         </>
       ) : (
-        <div>No Lottery Contract Detected</div>
+        <div>No Contract Detected</div>
       )}
     </div>
   );

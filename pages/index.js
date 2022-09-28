@@ -13,7 +13,7 @@ export default function Home() {
           <Header />
         </div>
       </nav>
-      <div className="lottery-box flex justify-center items-center">
+      <div className="flex justify-center items-center">
         <FundMe />
       </div>
     </div>
